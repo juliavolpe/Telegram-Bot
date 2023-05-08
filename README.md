@@ -1,7 +1,7 @@
 # Telegram-Bot
 ### Author: Julia Volpe
 
-Python scripts to parse a Telegram chat history backup (`JSON`) into tabular format (`CSV`). The instructions below are how to create your own `.json` and `.csv` files using your own personal Telegram messages. I include my own example in the given files where I created a hypothetical Telegram conversation with words, photos, and files.
+This project uses Python scripts to parse a Telegram chat history backup (`JSON`) into tabular format (`CSV`). The instructions below are how to create your own `.json` and `.csv` files using your own personal Telegram messages. I include my own example in the given files where I created a hypothetical Telegram conversation with words, photos, and files.
 
 
 ## How to use it
