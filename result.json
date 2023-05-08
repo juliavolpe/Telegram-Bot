@@ -1,0 +1,308 @@
+{
+ "name": "Alice",
+ "type": "personal_chat",
+ "id": 6222948776,
+ "messages": [
+  {
+   "id": 15,
+   "type": "service",
+   "date": "2023-05-07T22:20:50",
+   "date_unixtime": "1683523250",
+   "actor": "Alice",
+   "actor_id": "user6222948776",
+   "action": "joined_telegram",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2023-05-07T22:49:59",
+   "date_unixtime": "1683524999",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "text": "Hi Alice! This is Bob, we connected at the GDC expo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi Alice! This is Bob, we connected at the GDC expo"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2023-05-07T22:54:06",
+   "date_unixtime": "1683525246",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "photo": "photos/photo_1@07-05-2023_22-54-06.jpg",
+   "width": 458,
+   "height": 718,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2023-05-07T22:55:18",
+   "date_unixtime": "1683525318",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "Hello Bob! Thank you so much for connecting with me and for reaching out",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello Bob! Thank you so much for connecting with me and for reaching out"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2023-05-07T22:56:25",
+   "date_unixtime": "1683525385",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "photo": "photos/photo_2@07-05-2023_22-56-25.jpg",
+   "width": 388,
+   "height": 674,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2023-05-07T22:56:36",
+   "date_unixtime": "1683525396",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "This is me, Alice",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is me, Alice"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2023-05-07T23:00:45",
+   "date_unixtime": "1683525645",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "text": "Thank you Alice! You mentioned a possible job opportunity that opened up in your department. I'm very interested in applying for it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you Alice! You mentioned a possible job opportunity that opened up in your department. I'm very interested in applying for it"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2023-05-07T23:05:11",
+   "date_unixtime": "1683525911",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "Yes of course! Would you mind giving me some basic information like your email, phone number, LinkedIn, etc.?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes of course! Would you mind giving me some basic information like your email, phone number, LinkedIn, etc.?"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2023-05-07T23:10:02",
+   "date_unixtime": "1683526202",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "text": [
+    "No problem. My email is ",
+    {
+     "type": "email",
+     "text": "bobthebuilder@gmail.com"
+    },
+    ", my phone number is ",
+    {
+     "type": "phone",
+     "text": "7202020770"
+    },
+    ", my LinkedIn is https:",
+    {
+     "type": "link",
+     "text": "www.linkedin.com/in/therealbob"
+    },
+    ", and I will send my resume too"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No problem. My email is "
+    },
+    {
+     "type": "email",
+     "text": "bobthebuilder@gmail.com"
+    },
+    {
+     "type": "plain",
+     "text": ", my phone number is "
+    },
+    {
+     "type": "phone",
+     "text": "7202020770"
+    },
+    {
+     "type": "plain",
+     "text": ", my LinkedIn is https:"
+    },
+    {
+     "type": "link",
+     "text": "www.linkedin.com/in/therealbob"
+    },
+    {
+     "type": "plain",
+     "text": ", and I will send my resume too"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2023-05-07T23:15:30",
+   "date_unixtime": "1683526530",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "file": "files/Bob Resume.pdf",
+   "thumbnail": "files/Bob Resume.pdf_thumb.jpg",
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2023-05-07T23:17:03",
+   "date_unixtime": "1683526623",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "Thank you for the information Bob! For future reference, my information is below:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thank you for the information Bob! For future reference, my information is below:"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2023-05-07T23:17:25",
+   "date_unixtime": "1683526645",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": [
+    {
+     "type": "email",
+     "text": "aliceinwonderland@gmail.com"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "aliceinwonderland@gmail.com"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2023-05-07T23:17:57",
+   "date_unixtime": "1683526677",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": [
+    {
+     "type": "phone",
+     "text": "1234567890"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "phone",
+     "text": "1234567890"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2023-05-07T23:19:04",
+   "date_unixtime": "1683526744",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.linkedin.com/in/therealalice"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://www.linkedin.com/in/therealalice"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2023-05-07T23:19:52",
+   "date_unixtime": "1683526792",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "Feel free to save my info and connect with me on LinkedIn!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Feel free to save my info and connect with me on LinkedIn!"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2023-05-07T23:21:39",
+   "date_unixtime": "1683526899",
+   "from": "Alice",
+   "from_id": "user6222948776",
+   "text": "In the meantime, I will look over your information and reach back out to you soon👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "In the meantime, I will look over your information and reach back out to you soon👍"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2023-05-07T23:22:26",
+   "date_unixtime": "1683526946",
+   "from": "Bob",
+   "from_id": "user5748872509",
+   "text": "Sounds great. Thank you so much again Alice. So glad we connected! We'll be in touch😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sounds great. Thank you so much again Alice. So glad we connected! We'll be in touch😊"
+    }
+   ]
+  }
+ ]
+}

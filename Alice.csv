@@ -1,0 +1,17 @@
+"msg_id","sender","sender_id","reply_to_msg_id","date","msg_type","msg_content","has_mention","has_email","has_phone","has_hashtag","is_bot_command"
+21,"Bob","user5748872509",-1,"2023-05-07 22:49:59","text","Hi Alice! This is Bob, we connected at the GDC expo",0,0,0,0,0
+22,"Bob","user5748872509",-1,"2023-05-07 22:54:06","photo","photos/photo_1@07-05-2023_22-54-06.jpg",0,0,0,0,0
+23,"Alice","user6222948776",-1,"2023-05-07 22:55:18","text","Hello Bob! Thank you so much for connecting with me and for reaching out",0,0,0,0,0
+25,"Alice","user6222948776",-1,"2023-05-07 22:56:25","photo","photos/photo_2@07-05-2023_22-56-25.jpg",0,0,0,0,0
+26,"Alice","user6222948776",-1,"2023-05-07 22:56:36","text","This is me, Alice",0,0,0,0,0
+27,"Bob","user5748872509",-1,"2023-05-07 23:00:45","text","Thank you Alice! You mentioned a possible job opportunity that opened up in your department. I'm very interested in applying for it",0,0,0,0,0
+28,"Alice","user6222948776",-1,"2023-05-07 23:05:11","text","Yes of course! Would you mind giving me some basic information like your email, phone number, LinkedIn, etc.?",0,0,0,0,0
+29,"Bob","user5748872509",-1,"2023-05-07 23:10:02","link","No problem. My email is bobthebuilder@gmail.com, my phone number is 7202020770, my LinkedIn is https:www.linkedin.com/in/therealbob, and I will send my resume too",0,1,1,0,0
+30,"Bob","user5748872509",-1,"2023-05-07 23:15:30","file","files/Bob Resume.pdf",0,0,0,0,0
+31,"Alice","user6222948776",-1,"2023-05-07 23:17:03","text","Thank you for the information Bob! For future reference, my information is below:",0,0,0,0,0
+32,"Alice","user6222948776",-1,"2023-05-07 23:17:25","text","aliceinwonderland@gmail.com",0,1,0,0,0
+33,"Alice","user6222948776",-1,"2023-05-07 23:17:57","text","1234567890",0,0,1,0,0
+34,"Alice","user6222948776",-1,"2023-05-07 23:19:04","link","https://www.linkedin.com/in/therealalice",0,0,0,0,0
+35,"Alice","user6222948776",-1,"2023-05-07 23:19:52","text","Feel free to save my info and connect with me on LinkedIn!",0,0,0,0,0
+36,"Alice","user6222948776",-1,"2023-05-07 23:21:39","text","In the meantime, I will look over your information and reach back out to you soon👍",0,0,0,0,0
+37,"Bob","user5748872509",-1,"2023-05-07 23:22:26","text","Sounds great. Thank you so much again Alice. So glad we connected! We'll be in touch😊",0,0,0,0,0
